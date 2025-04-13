@@ -8,7 +8,7 @@ This API requires key for proper working.
 API Key is set for testing purposes as: CarRentalManagement_Api-Key!
 
 # Database
-This application uses the SQL database for storying data.
+This application uses the SQL database for storing data.
 
 There are provided .sql files in 'SQL_Queries' folder that contains:
 1. Creation of database (CarRentalManagement-DatabaseCreation.sql)
